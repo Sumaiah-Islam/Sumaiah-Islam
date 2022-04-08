@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-![Github Banner](https://github.com/Sumaiah-Islam/Sumaiah-Islam/blob/main/banner1.png)
-=======
 
->>>>>>> 7467a2886eb6a8ed81d0bfa19d0f55358808f021
+![Github Banner](https://github.com/Sumaiah-Islam/Sumaiah-Islam/blob/main/banner1.png)
+
 
 :coffee: &emsp;Connect with me!
 
