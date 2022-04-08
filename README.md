@@ -1,4 +1,4 @@
-
+![Github Banner](https://github.com/Sumaiah-Islam/Sumaiah-Islam/blob/main/banner.png)
 
 :coffee: &emsp;Connect with me!
 
