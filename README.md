@@ -1,5 +1,5 @@
 
-![Github Banner](https://github.com/Sumaiah-Islam/Sumaiah-Islam/blob/main/banner1.png)
+![Github Banner](https://github.com/Sumaiah-Islam/Sumaiah-Islam/blob/main/banner.png)
 
 
 :coffee: &emsp;Connect with me!
