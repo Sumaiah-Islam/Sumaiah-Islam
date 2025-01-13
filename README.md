@@ -1,6 +1,5 @@
 
-![Github Banner](https://github.com/Sumaiah-Islam/Sumaiah-Islam/blob/main/banner.png)
-
+<!-- https://medium.com/@sumaiah.mitu/building-a-flutter-image-upload-function-with-bloc-and-image-picker-8d77dfb94a61 -->
 
 :coffee: &emsp;Connect with me!
 
